@@ -1,4 +1,4 @@
-# Oxford MFoCS Masters Dissertation
+# Oxford MFoCS Master's Dissertation
 
 This is my Master's dissertation from Oxford on the subject of comparing the Louvain method versus the Leiden method (complex networks community detection). 
 
