@@ -8,3 +8,5 @@ The full PDF dissertation can be found in this repository. My work was supervise
 I am currently reworking this code from a Jupyter notebook and into a standalone Python package. The repository for the package is (https://github.com/cannon-complexity/louvainvsleiden) and I aim to have the coding done by the end of January 2023.
 
 Here are some of my favourite figures, and some which demonstrate the variables which were measured in my original numerical simulations. 
+
+![Karate Club](14_oct_Karate_Figure.pdf)
