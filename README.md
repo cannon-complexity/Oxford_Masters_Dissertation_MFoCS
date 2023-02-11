@@ -9,4 +9,12 @@ I am currently reworking this code from a Jupyter notebook and into a standalone
 
 Here are some of my favourite figures, and some which demonstrate the variables which were measured in my original numerical simulations. 
 
-![Karate Club](14_oct_Karate_Figure.pdf)
+![American College Football Network-2](https://user-images.githubusercontent.com/121244309/218274674-0b06321e-96cf-4de2-8126-d5fa05479422.jpg)
+
+![Louvain_Greedy-1-1](https://user-images.githubusercontent.com/121244309/218274685-97af9f30-188d-4031-8ef4-30ccc0f1997b.jpg)
+
+![14_oct_comp_times_and_number_of_comms-1-page-001](https://user-images.githubusercontent.com/121244309/218274698-2c06f549-3172-42b7-abc5-04b8f28c3417.jpg)
+
+![14_oct_Ground_truth_mod_ARI_averages-1-page-001](https://user-images.githubusercontent.com/121244309/218274701-d60ceb48-caf4-4e03-97a4-092470b95506.jpg)
+
+![14_oct_FM_NMI_instances-page-001](https://user-images.githubusercontent.com/121244309/218274704-c3a4a9b6-9911-4b83-8921-d07ad9c43a7f.jpg)
